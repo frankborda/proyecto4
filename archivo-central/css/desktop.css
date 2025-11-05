@@ -663,7 +663,7 @@ h6 {
   height: 40px;
   font-size: 1.2rem;
   cursor: pointer;
-  display: flex;
+  display: none;
   justify-content: center;
   align-items: center;
   transition: background 0.3s ease;
@@ -1338,4 +1338,5 @@ footer {
   .requirement-card { 
     padding: 1rem; 
   }
+
 }
