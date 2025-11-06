@@ -11,8 +11,10 @@
         --white: #ffffff;
         --red-accent: #ff0000;
         --gray: #64748b;
-        --gray-light: #e5e7eb;
+        --light-gray: #e2e8f0;
+        --border: #cbd5e1;
         --text-color: #334155;
+        --shadow-md: 0 4px 6px -1px rgba(0, 0, 0, 0.1), 0 2px 4px -1px rgba(0, 0, 0, 0.06);
         --gradient: linear-gradient(
           135deg,
           var(--primary) 0%,
@@ -1799,4 +1801,5 @@
           width: 100px;
           height: 100px;
         }
+
       }
